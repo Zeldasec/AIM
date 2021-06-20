@@ -1,8 +1,10 @@
 ![Program Environment](https://s19.picofile.com/file/8437009518/Your_paragraph_text_2_.jpg)
 # AIM | ZELDA SECURITY
+**GUIDE:**
 **Easily You Can Scan Websites For Vulnerabilities. You have 2 choice Scan a single website or Scan Multiple websites, And the point is here that you can read the report of the SCAN in a file in reports/Web_Result_Z.sec.txt.**
 
 ----------------------------
+راهنما:
 به راحتی وبسایت یا وبسایت هارو تارگت قرار بده و در فایل مربوط به گزارش , جستجوی خودتون رو برای آسیب پذیری مورد نظر پیدا کنید.
 ----------------------------
 
