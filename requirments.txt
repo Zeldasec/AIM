@@ -1,0 +1,5 @@
+colorama
+
+
+Nikto
+sudo apt-get install Nikto
